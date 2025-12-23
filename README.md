@@ -1,21 +1,8 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Santheesh%20Shanmugasundram&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20R%26D%20Team&descSize=18&descAlignY=55&textBg=false"/>
 
-<!--
-**Santheesh092/Santheesh092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Santheesh Shanmugasundram</h1>
-<h3 align="center">Software Engineer | R&D Team</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%F0%9F%8C%B1Opportunities%20don%E2%80%99t%20happen.%20You%20create%20them%E2%AD%90" alt="Typing introduction" />
+</p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Santheesh092">
@@ -26,7 +13,9 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 🚩Full-stack developer with hands-on experience 🏆 building scalable web and mobile applications using 📍 MERN Stack, React Native, and Flutter.📈 Proficient in developing RESTful APIs, authentication systems, and database optimization. ⭐Passionate about creating efficient, user-centric solutions and continuously learning emerging technologies‼️
+- 🚩Full-stack developer with hands-on experience building scalable web and mobile applications using MERN Stack, React Native, and Flutter.
+- 📈 Proficient in developing RESTful APIs, authentication systems, and database optimization.
+- ⭐Passionate about creating efficient, user-centric solutions and continuously learning emerging technologies.
 
 
 ## 🧠 My Focus Areas
@@ -55,9 +44,6 @@ Here are some ideas to get you started:
 
 ## 🔗 Connect with Me
 <p align="center"><a href="https://www.linkedin.com/in/santheesh-s-b1a6ba1b1" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/9345930839" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:cecssantheesh24@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://hunteq.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
-
-## 💬 Quote
-> 🌱Opportunities don’t happen. You create them⭐
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
